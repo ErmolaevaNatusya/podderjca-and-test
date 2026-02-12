@@ -1,0 +1,7 @@
+D:\Залина\ЗАЛИНА\cuclculator\cuclculator\bin\Debug\cuclculator.exe.config
+D:\Залина\ЗАЛИНА\cuclculator\cuclculator\bin\Debug\cuclculator.exe
+D:\Залина\ЗАЛИНА\cuclculator\cuclculator\bin\Debug\cuclculator.pdb
+D:\Залина\ЗАЛИНА\cuclculator\cuclculator\obj\Debug\cuclculator.csproj.AssemblyReference.cache
+D:\Залина\ЗАЛИНА\cuclculator\cuclculator\obj\Debug\cuclculator.csproj.CoreCompileInputs.cache
+D:\Залина\ЗАЛИНА\cuclculator\cuclculator\obj\Debug\cuclculator.exe
+D:\Залина\ЗАЛИНА\cuclculator\cuclculator\obj\Debug\cuclculator.pdb
